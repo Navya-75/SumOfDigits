@@ -16,4 +16,4 @@ This is a simple web project to calculate the sum of digits of a number using HT
 2. Enter a number and click "Calculate".
 3. It shows the total sum of digits.
 
-## Made for learning purposes 🎓
+## Made for learning purposes 
